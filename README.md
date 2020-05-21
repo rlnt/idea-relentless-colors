@@ -2,10 +2,11 @@
 
 > A vibrant color scheme for all [JetBrains] IDEs.
 
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)][Marketplace]
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)][Marketplace]
 
 - [Discord]
+- [Marketplace]
 
 ---
 
@@ -57,6 +58,17 @@ There is also a recommended font for the console. **Relentless-Colors** uses [Co
 
 ## **🔧 Installation**
 
+Installation from [Marketplace] (*recommended*):
+
+1. Start your preffered [JetBrains] IDE and go to plugins.
+2. Search for **Relentless-Colors** and install it.
+3. Restart your IDE.
+4. Go to the settings and navigate to *Editor > Color Scheme*.
+5. Select **Relentless-Colors**.
+6. Hit **Apply** and **OK**.
+
+Manual installation:
+
 1. Download the latest **jar-file** from the [releases].
 2. Start your preferred [JetBrains] IDE and go to the settings.
 3. Navigate to *Editor > Color Scheme*.
@@ -85,6 +97,7 @@ This project is licensed under [The Unlicense].
 <!-- Links -->
 [JetBrains]: https://www.jetbrains.com/
 [Discord]: https://discordapp.com/invite/Q3qxws6
+[Marketplace]: https://plugins.jetbrains.com/plugin/14347-relentless-colors-color-scheme
 [color themes]: https://plugins.jetbrains.com/search?tags=Theme
 [material theme]: https://plugins.jetbrains.com/plugin/12124-material-theme-ui-lite
 [Fira Code]: https://github.com/tonsky/FiraCode
