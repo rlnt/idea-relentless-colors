@@ -53,7 +53,7 @@ My personal recommendation is the *Material Darker Contrast* theme which is a pa
 
 The color scheme also comes with a recommended font. [Fira Code] is the perfect coding font with its awesome font ligatures. You should install it before you install the scheme.
 
-There is also a recommended font for the console. **Relentless-Colors** uses [Consolas] for that. It's installed by default on some machines but make sure that you have it before you install the scheme.
+There is also a recommended font for the console. **Relentless-Colors** uses [MesloLGS NF] for that. Make sure that you have it before you install the scheme.
 
 
 ## **🔧 Installation**
@@ -101,7 +101,7 @@ This project is licensed under [The Unlicense].
 [color themes]: https://plugins.jetbrains.com/search?tags=Theme
 [material theme]: https://plugins.jetbrains.com/plugin/12124-material-theme-ui-lite
 [Fira Code]: https://github.com/tonsky/FiraCode
-[Consolas]: https://docs.microsoft.com/en-us/typography/font-list/consolas
+[MesloLGS NF]: https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf
 [releases]: https://github.com/DAmNRelentless/idea-relentless-colors/releases
 [changelog]: CHANGELOG.md
 [The Unlicense]: LICENSE.md
