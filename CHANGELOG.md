@@ -11,6 +11,14 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Released]
 
+
+## [1.2.0] - 2021-09-02
+
+### Changed
+- color overhaul
+- new version build
+
+
 ## [1.1.0] - 2020-09-04
 
 ### Added
@@ -35,5 +43,6 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 <!-- Versions -->
 [Unreleased]: https://github.com/DAmNRelentless/idea-relentless-colors/releases
 [Released]: https://github.com/DAmNRelentless/idea-relentless-colors/releases
+[1.2.0]: https://github.com/DAmNRelentless/idea-relentless-colors/compare/v1.1.0..v1.2.0
 [1.1.0]: https://github.com/DAmNRelentless/idea-relentless-colors/compare/v1.0.0..v1.1.0
 [1.0.0]: https://github.com/DAmNRelentless/idea-relentless-colors/releases/v1.0.0
