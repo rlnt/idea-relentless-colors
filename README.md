@@ -2,31 +2,10 @@
 
 > A vibrant color scheme for all [JetBrains] IDEs.
 
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)][Marketplace]
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)][Marketplace]
-
 - [Discord]
 - [Marketplace]
 
 ---
-
-<br>
-
-<!-- Table of Contents -->
-<details>
-    <summary>
-        <strong>Table of Contents (click to expand)</strong>
-    </summary>
-
-- [**Relentless Colors**](#relentless-colors)
-  - [**📑 Overview**](#-overview)
-  - [**🔨 Prerequisites**](#-prerequisites)
-  - [**🔧 Installation**](#-installation)
-  - [**📕 History**](#-history)
-  - [**⏰ Changelog**](#-changelog)
-  - [**🎓 License**](#-license)
-</details>
-
 
 ## **📑 Overview**
 
@@ -104,4 +83,4 @@ This project is licensed under [The Unlicense].
 [MesloLGS NF]: https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf
 [releases]: https://github.com/DAmNRelentless/idea-relentless-colors/releases
 [changelog]: CHANGELOG.md
-[The Unlicense]: LICENSE.md
+[The Unlicense]: LICENSE
