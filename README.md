@@ -13,13 +13,8 @@ This is a color scheme for all common [JetBrains] IDEs. It features vibrant and 
 
 The carefully chosen colors harmonise perfectly with a dark theme. It's perfect for night owls.
 
-<details>
-    <summary>
-        <strong>Preview (click to expand)</strong>
-    </summary>
-
-![preview](https://i.imgur.com/cCyKXOQ.png)
-</details>
+Here is a preview. The colors look brighter in the acutal IDE:
+![preview](images/preview.png)
 
 
 ## **🔨 Prerequisites**
@@ -31,8 +26,6 @@ A lot of good themes can be found [here][color themes]. Just pick your preferred
 My personal recommendation is the *Material Darker Contrast* theme which is a part of [Material Theme UI Lite][material theme].
 
 The color scheme also comes with a recommended font. [Fira Code] is the perfect coding font with its awesome font ligatures. You should install it before you install the scheme.
-
-There is also a recommended font for the console. **Relentless-Colors** uses [MesloLGS NF] for that. Make sure that you have it before you install the scheme.
 
 
 ## **🔧 Installation**
@@ -57,10 +50,7 @@ Manual installation:
 
 
 ## **📕 History**
-
-Unfortunately, I'm a perfectionist. This is often reflected in my code and at my workplace.
-
-The IDEs of [JetBrains] are ingenious but unfortunately I never found the right color scheme for me which would have made my programming experience perfect so I decided to create my own palette.
+I never found the right color scheme for me which would have made my programming experience perfect so I decided to create my own palette.
 
 Since I am aware that many programmers are looking to improve their coding environment and customize it, I thought I would make my colors available to everyone.
 
@@ -80,7 +70,6 @@ This project is licensed under [The Unlicense].
 [color themes]: https://plugins.jetbrains.com/search?tags=Theme
 [material theme]: https://plugins.jetbrains.com/plugin/12124-material-theme-ui-lite
 [Fira Code]: https://github.com/tonsky/FiraCode
-[MesloLGS NF]: https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf
 [releases]: https://github.com/DAmNRelentless/idea-relentless-colors/releases
 [changelog]: CHANGELOG.md
 [The Unlicense]: LICENSE
