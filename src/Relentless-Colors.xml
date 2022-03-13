@@ -1,9 +1,9 @@
 <scheme name="Relentless-Colors" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-12-17T00:14:50</property>
+    <property name="created">2022-03-13T22:17:16</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2021-12-17T00:14:55</property>
+    <property name="ideVersion">2022.1.0.0</property>
+    <property name="modified">2022-03-13T22:17:32</property>
     <property name="originalScheme">Relentless-Colors</property>
   </metaInfo>
   <colors>
@@ -218,7 +218,6 @@
       <value>
         <option name="FOREGROUND" value="66d9ef" />
         <option name="EFFECT_COLOR" value="66d9ef" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -580,16 +579,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
-    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER" baseAttributes="KOTLIN_PARAMETER" />
     <option name="KOTLIN_LABEL">
       <value />
     </option>
@@ -598,7 +593,6 @@
         <option name="FOREGROUND" value="66d9ef" />
       </value>
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LESS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="fd971f" />
