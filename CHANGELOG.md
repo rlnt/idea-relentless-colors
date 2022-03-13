@@ -12,6 +12,12 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 ## [Released]
 
 
+## [1.2.4] - 2022-03-13
+
+### Changed
+- improve coloring for TS type narrowing
+
+
 ## [1.2.3] - 2022-03-13
 
 ### Fixed
@@ -66,6 +72,7 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 <!-- Versions -->
 [Unreleased]: https://github.com/DAmNRelentless/idea-relentless-colors/releases
 [Released]: https://github.com/DAmNRelentless/idea-relentless-colors/releases
+[1.2.4]: https://github.com/DAmNRelentless/idea-relentless-colors/compare/v1.2.3..v1.2.4
 [1.2.3]: https://github.com/DAmNRelentless/idea-relentless-colors/compare/v1.2.2..v1.2.3
 [1.2.2]: https://github.com/DAmNRelentless/idea-relentless-colors/compare/v1.2.1..v1.2.2
 [1.2.1]: https://github.com/DAmNRelentless/idea-relentless-colors/compare/v1.2.0..v1.2.1
