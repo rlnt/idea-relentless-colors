@@ -2,18 +2,15 @@
 
 > A vibrant color scheme for all [JetBrains] IDEs.
 
-- [Discord]
 - [Marketplace]
 
 ---
 
 ## **📑 Overview**
 
-This is a color scheme for all common [JetBrains] IDEs. It features vibrant and contrasting colors to give you the best possible coding experience.
+This is a color scheme for all common [JetBrains] IDEs. It features vibrant and contrasting colors to give you the best possible coding experience. The carefully chosen colors harmonise perfectly with a dark theme. It's perfect for night owls.
 
-The carefully chosen colors harmonise perfectly with a dark theme. It's perfect for night owls.
-
-Here is a preview. The colors look brighter in the acutal IDE:
+Here is a preview:<br>
 ![preview](images/preview.png)
 
 
@@ -23,9 +20,9 @@ Here is a preview. The colors look brighter in the acutal IDE:
 
 A lot of good themes can be found [here][color themes]. Just pick your preferred one but keep in mind that **Relentless-Colors** is recommended to be used with a dark theme.
 
-My personal recommendation is the *Material Darker Contrast* theme which is a part of [Material Theme UI Lite][material theme].
+My personal recommendation is the [*Visual Studio Code Dark Plus*][theme] theme.
 
-The color scheme also comes with a recommended font. [Fira Code] is the perfect coding font with its awesome font ligatures. You should install it before you install the scheme.
+The color scheme also comes with a recommended font. [JetBrains Mono] is the perfect coding font with its awesome font ligatures. You should install it before you install the scheme.
 
 
 ## **🔧 Installation**
@@ -49,12 +46,6 @@ Manual installation:
 6. Hit **Apply** and **OK**. An IDE restart may be required.
 
 
-## **📕 History**
-I never found the right color scheme for me which would have made my programming experience perfect so I decided to create my own palette.
-
-Since I am aware that many programmers are looking to improve their coding environment and customize it, I thought I would make my colors available to everyone.
-
-
 ## **⏰ Changelog**
 Everything related to versions and their release notes can be found in the [changelog].
 
@@ -65,11 +56,10 @@ This project is licensed under [The Unlicense].
 
 <!-- Links -->
 [JetBrains]: https://www.jetbrains.com/
-[Discord]: https://discordapp.com/invite/Q3qxws6
 [Marketplace]: https://plugins.jetbrains.com/plugin/14347-relentless-colors-color-scheme
 [color themes]: https://plugins.jetbrains.com/search?tags=Theme
-[material theme]: https://plugins.jetbrains.com/plugin/12124-material-theme-ui-lite
-[Fira Code]: https://github.com/tonsky/FiraCode
-[releases]: https://github.com/DAmNRelentless/idea-relentless-colors/releases
+[theme]: https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme
+[JetBrains Mono]: https://github.com/JetBrains/JetBrainsMono
+[releases]: https://github.com/rlnt/idea-relentless-colors/releases
 [changelog]: CHANGELOG.md
 [The Unlicense]: LICENSE

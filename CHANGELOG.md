@@ -3,14 +3,6 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][Keep a Changelog] and this project adheres to [Semantic Versioning][Semantic Versioning].
 
-## [Unreleased]
-
-- /
-
----
-
-## [Released]
-
 
 ## [1.2.4] - 2022-03-13
 
@@ -63,19 +55,16 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 - initial release
 
----
 
 <!-- Links -->
 [Keep a Changelog]: https://keepachangelog.com/
 [Semantic Versioning]: https://semver.org/
 
 <!-- Versions -->
-[Unreleased]: https://github.com/DAmNRelentless/idea-relentless-colors/releases
-[Released]: https://github.com/DAmNRelentless/idea-relentless-colors/releases
-[1.2.4]: https://github.com/DAmNRelentless/idea-relentless-colors/compare/v1.2.3..v1.2.4
-[1.2.3]: https://github.com/DAmNRelentless/idea-relentless-colors/compare/v1.2.2..v1.2.3
-[1.2.2]: https://github.com/DAmNRelentless/idea-relentless-colors/compare/v1.2.1..v1.2.2
-[1.2.1]: https://github.com/DAmNRelentless/idea-relentless-colors/compare/v1.2.0..v1.2.1
-[1.2.0]: https://github.com/DAmNRelentless/idea-relentless-colors/compare/v1.1.0..v1.2.0
-[1.1.0]: https://github.com/DAmNRelentless/idea-relentless-colors/compare/v1.0.0..v1.1.0
-[1.0.0]: https://github.com/DAmNRelentless/idea-relentless-colors/releases/v1.0.0
+[1.2.4]: https://github.com/rlnt/idea-relentless-colors/compare/v1.2.3..v1.2.4
+[1.2.3]: https://github.com/rlnt/idea-relentless-colors/compare/v1.2.2..v1.2.3
+[1.2.2]: https://github.com/rlnt/idea-relentless-colors/compare/v1.2.1..v1.2.2
+[1.2.1]: https://github.com/rlnt/idea-relentless-colors/compare/v1.2.0..v1.2.1
+[1.2.0]: https://github.com/rlnt/idea-relentless-colors/compare/v1.1.0..v1.2.0
+[1.1.0]: https://github.com/rlnt/idea-relentless-colors/compare/v1.0.0..v1.1.0
+[1.0.0]: https://github.com/rlnt/idea-relentless-colors/releases/v1.0.0
