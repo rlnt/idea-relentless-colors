@@ -1,0 +1,23 @@
+<idea-plugin>
+  <id>color.scheme.Relentless-Colors</id>
+  <name>Relentless-Colors</name>
+  <version>1.2.5</version>
+  <vendor email="team@rlnt.dev" url="https://github.com/rlnt">rlnt</vendor>
+
+  <description><![CDATA[
+      I like my editor colorful. There's nothing better than vibrant colors!
+    ]]></description>
+
+  <change-notes><![CDATA[
+      https://github.com/rlnt/idea-relentless-colors/blob/master/CHANGELOG.md
+    ]]>
+  </change-notes>
+
+  <idea-version since-build="142.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <bundledColorScheme id="color.scheme.Relentless-Colors" path="/colors/Relentless-Colors"/>
+  </extensions>
+</idea-plugin>
