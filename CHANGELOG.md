@@ -3,6 +3,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][Keep a Changelog] and this project adheres to [Semantic Versioning][Semantic Versioning].
 
+## [1.2.5] - 2024-08-12
+
+### Fixed
+- fixed id exception thrown with new IDE versions
+
 
 ## [1.2.4] - 2022-03-13
 
@@ -61,6 +66,7 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 [Semantic Versioning]: https://semver.org/
 
 <!-- Versions -->
+[1.2.5]: https://github.com/rlnt/idea-relentless-colors/compare/v1.2.4..v1.2.5
 [1.2.4]: https://github.com/rlnt/idea-relentless-colors/compare/v1.2.3..v1.2.4
 [1.2.3]: https://github.com/rlnt/idea-relentless-colors/compare/v1.2.2..v1.2.3
 [1.2.2]: https://github.com/rlnt/idea-relentless-colors/compare/v1.2.1..v1.2.2
