@@ -1,71 +1,78 @@
 # Changelog
+
 All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog][Keep a Changelog] and this project adheres to [Semantic Versioning][Semantic Versioning].
+## [1.3.0] - 2025-12-18
+
+### Changed
+
+- changed background coloring for better visibility in JetBrains dark mode themes
+- changed several colors for better contrast and visibility
+- changed coloring for Kotlin smart casts
+
+### Fixed
+
+- fixed caret not being visible in some terminal themes
 
 ## [1.2.5] - 2024-08-12
 
 ### Fixed
-- fixed id exception thrown with new IDE versions
 
+- fixed id exception thrown with new IDE versions
 
 ## [1.2.4] - 2022-03-13
 
 ### Changed
-- improve coloring for TS type narrowing
 
+- changed coloring for TS type narrowing
 
 ## [1.2.3] - 2022-03-13
 
 ### Fixed
-- some JS/TS coloring
 
+- fixed some JS/TS coloring
 
 ## [1.2.2] - 2021-12-17
 
 ### Changed
-- improved visibility for errors
 
+- changed visibility for errors
 
 ## [1.2.1] - 2021-09-03
 
 ### Changed
-- several background colors for a better look
+
+- changed several background colors for a better look
 
 ### Fixed
-- selection visibility
-- line visibility
-- line number visibility
 
+- fixed selection visibility
+- fixed line visibility
+- fixed line number visibility
 
 ## [1.2.0] - 2021-09-02
 
 ### Changed
-- color overhaul
-- new version build
 
+- changed color overhaul
+- changed new version build
 
 ## [1.1.0] - 2020-09-04
 
 ### Added
-- more support for rainbow brackets
-- support for ignore files
+
+- added more support for rainbow brackets
+- added support for ignore files
 
 ### Changed
-- console font and formatting
-- visualization for deprecated entries
 
+- changed console font and formatting
+- changed visualization for deprecated entries
 
 ## [1.0.0] - 2020-05-21
 
 - initial release
 
-
-<!-- Links -->
-[Keep a Changelog]: https://keepachangelog.com/
-[Semantic Versioning]: https://semver.org/
-
-<!-- Versions -->
 [1.2.5]: https://github.com/rlnt/idea-relentless-colors/compare/v1.2.4..v1.2.5
 [1.2.4]: https://github.com/rlnt/idea-relentless-colors/compare/v1.2.3..v1.2.4
 [1.2.3]: https://github.com/rlnt/idea-relentless-colors/compare/v1.2.2..v1.2.3

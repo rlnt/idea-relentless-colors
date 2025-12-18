@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>color.scheme.Relentless-Colors</id>
   <name>Relentless-Colors</name>
-  <version>1.2.5</version>
+  <version>1.3.0</version>
   <vendor email="team@rlnt.dev" url="https://github.com/rlnt">rlnt</vendor>
 
   <description><![CDATA[
@@ -9,7 +9,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      https://github.com/rlnt/idea-relentless-colors/blob/master/CHANGELOG.md
+      https://github.com/rlnt/idea-relentless-colors/blob/main/CHANGELOG.md
     ]]>
   </change-notes>
 

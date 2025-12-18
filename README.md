@@ -1,35 +1,35 @@
-# **Relentless Colors**
+<h1 align="center">
+    <p>Relentless Colors</p>
+</h1>
 
-> A vibrant color scheme for all [JetBrains] IDEs.
+<div align="center">
 
-- [Marketplace]
+A vibrant color scheme for all [JetBrains] IDEs.<br>
+Check it out on the [Marketplace].
 
----
+</div>
 
 ## **📑 Overview**
 
-This is a color scheme for all common [JetBrains] IDEs. It features vibrant and contrasting colors to give you the best possible coding experience. The carefully chosen colors harmonise perfectly with a dark theme. It's perfect for night owls.
+This is a color scheme for all [JetBrains] IDEs. It features vibrant and contrasting colors to give you the
+best possible coding experience. The carefully chosen colors harmonise perfectly with a dark theme.
 
 Here is a preview:<br>
 ![preview](images/preview.png)
 
-
 ## **🔨 Prerequisites**
 
 **Relentless-Colors** is only a color scheme. Therefore it is recommended to install an IDE theme before.
+Keep in mind that **Relentless-Colors** is recommended to be used with a dark theme.
 
-A lot of good themes can be found [here][color themes]. Just pick your preferred one but keep in mind that **Relentless-Colors** is recommended to be used with a dark theme.
-
-My personal recommendation is the [*Visual Studio Code Dark Plus*][theme] theme.
-
-The color scheme also comes with a recommended font. [JetBrains Mono] is the perfect coding font with its awesome font ligatures. You should install it before you install the scheme.
-
+My personal recommendation is the *JetBrains Islands Dark* theme. If you want to try a different theme,
+make sure to adjust the background colors of the color scheme accordingly.
 
 ## **🔧 Installation**
 
 Installation from [Marketplace] (*recommended*):
 
-1. Start your preffered [JetBrains] IDE and go to plugins.
+1. Start your preferred [JetBrains] IDE and go to plugins.
 2. Search for **Relentless-Colors** and install it.
 3. Restart your IDE.
 4. Go to the settings and navigate to *Editor > Color Scheme*.
@@ -45,14 +45,9 @@ Manual installation:
 5. Navigate to the downloaded *Relentless-Colors.jar* and hit **OK**.
 6. Hit **Apply** and **OK**. An IDE restart may be required.
 
-
-## **⏰ Changelog**
-Everything related to versions and their release notes can be found in the [changelog].
-
-
 ## **🎓 License**
-This project is licensed under [The Unlicense].
 
+This project is licensed under [The Unlicense].
 
 <!-- Links -->
 [JetBrains]: https://www.jetbrains.com/
